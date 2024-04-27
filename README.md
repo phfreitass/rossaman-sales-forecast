@@ -1,6 +1,6 @@
 # Rossamann Sales Predict
 
-![Rossamann Sales Predict](/img/rossmann.png)
+![Rossamann Sales Predict](/img/rossmann2.png)
 
 ## Visão geral:
 
