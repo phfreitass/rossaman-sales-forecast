@@ -31,7 +31,7 @@ Minha estratégia para resolver esse desafio, baseado na metodologia CRISP-DS, �
 
 ## Ferramentas
 Quais ferramentas serão usadas no processo?
-- Python 3.8.12;
+- Python 3.9.17;
 - Jupyter Notebook;
 - Git e Github;
 - Heroku Cloud; 
